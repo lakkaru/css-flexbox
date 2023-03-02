@@ -16,6 +16,24 @@
     /* flex-direction: row-reverse; */
     /* flex-direction: column; */
     /* flex-direction: column-reverse; */
-    flex-wrap: wrap;
+    /* flex-wrap:wrap */
+    
+    /* justify-content:baseline; */
+    /* justify-content: center; */
+    /* justify-content:end; */
+    /* justify-content:first baseline; */
+    /* justify-content:left; */
+    /* justify-content:right; */
+    /* justify-content:right; */
+    /* justify-content:space-around; */
+    /* justify-content:space-between; */
+    justify-content:space-evenly;
 
-}
+    height: 50vh;
+    background-color: lightgray;
+    /* align-items: center; */
+    /* align-items: stretch; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* align-items:end; */
+};
