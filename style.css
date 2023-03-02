@@ -46,9 +46,10 @@
 }
 
 .two {
-  order: -1;
+  /* order: -1; */
+  align-self:flex-end;
 }
 
 .three{
-    order: 1;
+    align-self:flex-start;
 }
