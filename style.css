@@ -16,7 +16,7 @@
     /* flex-direction: row-reverse; */
     /* flex-direction: column; */
     /* flex-direction: column-reverse; */
-    /* flex-wrap:wrap */
+    flex-wrap:wrap;
     
     /* justify-content:baseline; */
     /* justify-content: center; */
@@ -27,13 +27,21 @@
     /* justify-content:right; */
     /* justify-content:space-around; */
     /* justify-content:space-between; */
-    justify-content:space-evenly;
+    /* justify-content:space-evenly; */
 
-    height: 50vh;
+    height: 80vh;
     background-color: lightgray;
     /* align-items: center; */
     /* align-items: stretch; */
     /* align-items: flex-start; */
     /* align-items: flex-end; */
     /* align-items:end; */
+
+    /* align-content: center; */
+    /* align-content: start; */
+    /* align-content: end; */
+    /* align-content:space-around; */
+    /* align-content:space-between; */
+    /* align-content:space-evenly; */
+    /* align-content:stretch; */
 };
